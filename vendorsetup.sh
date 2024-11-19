@@ -1,0 +1,3 @@
+add_lunch_combo lineage_franklin-user
+add_lunch_combo lineage_franklin-userdebug
+add_lunch_combo lineage_franklin-eng
