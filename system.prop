@@ -1,0 +1,7 @@
+dalvik.vm.stack-trace-dir=/data/anr
+net.bt.name=Android
+persist.sys.dalvik.vm.lib.2=libart.so
+ro.build.expect.bootloader=01.01.180822.145544
+ro.expect.recovery_id=0x968c4f5ac36c2e24525f98d139c47e05682bdf48000000000000000000000000
+ro.product.cpu.abi2=armeabi
+ro.wifi.channels=
